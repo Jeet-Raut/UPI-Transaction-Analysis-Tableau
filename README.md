@@ -34,7 +34,7 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 ## 🚀 How to Use
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/UPI-Transaction-Analysis-Tableau.git
+   git clone https://github.com/Jeet-Raut/UPI-Transaction-Analysis-Tableau.git
 
 2. Open UPI-Transaction Tableau Dashboard.twb in Tableau Desktop.
 
