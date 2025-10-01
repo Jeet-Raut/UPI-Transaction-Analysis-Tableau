@@ -44,3 +44,12 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 
 ---
 
+🎯 Skills Demonstrated
+
+* Data Cleaning & Preprocessing (Excel)
+
+* Data Visualization & Storytelling (Tableau)
+
+Business Intelligence & Reporting
+
+Analytical Thinking
