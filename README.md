@@ -50,6 +50,20 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 
 * Data Visualization & Storytelling (Tableau)
 
-Business Intelligence & Reporting
+* Business Intelligence & Reporting
 
-Analytical Thinking
+* Analytical Thinking
+
+---
+
+📈 Insights
+
+* Age Group 3 contributed the highest number of transactions (12,000+).
+
+* Mumbai and Delhi lead in total transactions across cities.
+
+* Phone Number and UPI ID were the most used payment modes.
+
+* E-commerce giants like Amazon, Flipkart, and IRCTC dominate UPI transactions.
+
+---
