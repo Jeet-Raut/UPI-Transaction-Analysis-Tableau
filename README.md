@@ -30,10 +30,6 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 - `Screenshot.png` → Preview of the final dashboard.  
 
 ---
-
-## 📸 Dashboard Preview
-![Dashboard Preview](Screenshot.png)
-
 ---
 
 ## 🚀 How to Use
