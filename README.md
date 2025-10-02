@@ -4,7 +4,8 @@
 This project showcases an **interactive Tableau dashboard** built on the `UPI+Transactions.xlsx` dataset.  
 The dashboard provides **actionable insights** into UPI (Unified Payments Interface) transactions across India, including:  
 - **Demographic Analysis**: Number of transactions segmented by **age groups**.  
-- **Geographical Insights**: City-level breakdown of total transactions (Delhi, Mumbai, Hyderabad, Bangalore, etc.).  
+- **Geographical Insights**: City-level breakdown of total transactions (Delhi, Mumbai, Hyderabad, Bangalore, etc.).
+  
 ---
 
 ## ⚡ Key Features
@@ -38,7 +39,32 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 3. Connect with UPI+Transactions.xlsx.
 
 4. Explore the dashboard with filters and interactions.
-* LinkedIn - https://linkedin.com/in/JeetRaut26
-* X - https://x.com/JeetRautt
+
+🎯 Skills Demonstrated
+- Data Cleaning & Preprocessing (Excel)
+
+- Data Visualization & Storytelling (Tableau)
+
+- Business Intelligence & Reporting
+
+- Analytical Thinking
+
+
+📈 Insights
+
+- Age Group 3 contributed the highest number of transactions (12,000+).
+
+- Mumbai and Delhi lead in total transactions across cities.
+
+- Phone Number and UPI ID were the most used payment modes.
+
+- E-commerce giants like Amazon, Flipkart, and IRCTC dominate UPI transactions.
+
+👨‍💻 Author
+
+Jeetu Raut
+📍 Data Analyst | Aspiring Data Scientist | Python & BI Enthusiast  
+* 🔗 LinkedIn - https://linkedin.com/in/JeetRaut26
+* 🔗 X - https://x.com/JeetRautt
 
 
