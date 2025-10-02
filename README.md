@@ -40,6 +40,8 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 
 4. Explore the dashboard with filters and interactions.
 
+---
+
 🎯 Skills Demonstrated
 - Data Cleaning & Preprocessing (Excel)
 
