@@ -69,11 +69,10 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 ---
 
 👨‍💻 Author
-
+ 
 Jeetu Raut
 📍 Data Analyst | Aspiring Data Scientist | Python & BI Enthusiast
 https://linkedin.com/in/JeetRaut26
 https://x.com/JeetRautt
 
 🔗 LinkedIn - 
----
