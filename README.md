@@ -71,5 +71,3 @@ Jeetu Raut
 📍 Data Analyst | Aspiring Data Scientist | Python & BI Enthusiast  
 * 🔗 LinkedIn - https://linkedin.com/in/JeetRaut26
 * 🔗 X - https://x.com/JeetRautt
-
-
