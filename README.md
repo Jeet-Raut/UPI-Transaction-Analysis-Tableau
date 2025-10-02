@@ -49,6 +49,7 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 
 - Analytical Thinking
 
+---
 
 📈 Insights
 
@@ -59,6 +60,8 @@ The dashboard provides **actionable insights** into UPI (Unified Payments Interf
 - Phone Number and UPI ID were the most used payment modes.
 
 - E-commerce giants like Amazon, Flipkart, and IRCTC dominate UPI transactions.
+
+---
 
 👨‍💻 Author
 
